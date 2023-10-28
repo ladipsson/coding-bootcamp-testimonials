@@ -36,6 +36,7 @@
 }
 
 .photo {
+  border-radius: 5px;
   width: 13rem;
   z-index: 1;
 }
